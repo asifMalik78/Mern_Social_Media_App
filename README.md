@@ -1,70 +1,82 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Social Media App
 
-## Available Scripts
+A Social Media App Where User Can Create Post , Update Post , Delete Post and Like the Post And Follow Others Users and Search Other Users
 
-In the project directory, you can run:
+## Tech Stack
 
-### `npm start`
+**Client:** React JS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Server:** Node JS, Express JS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Database:** Mongo DB
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Demo
+Clone the project
 
-### `npm run build`
+```bash
+  git clone https://github.com/asifMalik78/Mern_Social_Media_App.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Go to the project directory
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  cd Mern_Social_Media_App
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install dependencies
 
-### `npm run eject`
+```bash
+  npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+  cd client/
+  npm install
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Start the server
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+  cd server/
+  npm start
+```
+Start the Client
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+  //open now terminal
+  cd frontend
+  npm start
+```
 
-## Learn More
+# Authentication Page
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Light Mode
+![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/lightMode_login.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Dark Mode
+![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/darkMode_login.png)
 
-### Code Splitting
+# Home Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Light Mode
+![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/lightMode_home.png)
 
-### Analyzing the Bundle Size
+## Dark Mode
+![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/darkMode_home.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Profile Page
 
-### Making a Progressive Web App
+## Light Mode
+![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/lightMode_profile.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Dark Mode
+![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/darkMode_profile.png)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
