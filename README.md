@@ -52,27 +52,38 @@ Start the Client
 
 # Authentication Page
 
-## Light Mode
-![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/lightMode_login.png)
+## Login
+### Light Mode
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/lightMode_login.png)
 
-## Dark Mode
-![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/darkMode_login.png)
+### Dark Mode
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/darkMode_login.png)
+
+## Register
+
+### Light Mode
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/lightMode_register.png)
+
+### Dark Mode
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/darkMode_register.png)
+
 
 # Home Page
 
 ## Light Mode
-![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/lightMode_home.png)
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/lightMode_home.png)
+
 
 ## Dark Mode
-![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/darkMode_home.png)
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/darkMode_home.png)
 
 # Profile Page
 
 ## Light Mode
-![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/lightMode_profile.png)
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/lightMode_profile.png)
 
 ## Dark Mode
-![](https://github.com/asifMalik78/Mern_Social_Media_App/blob/master/screenshots/darkMode_profile.png)
+![](https://raw.githubusercontent.com/asifMalik78/Mern_Social_Media_App/master/screenshots/darkMode_profile.png)
 
 
 
