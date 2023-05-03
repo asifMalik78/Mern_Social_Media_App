@@ -13,7 +13,7 @@ A Social Media App Where User Can Create Post , Update Post , Delete Post and Li
 
 
 ## Demo
-## Uwername
+## Username
 naruto123@gmail.com
 ## Password
 1234
