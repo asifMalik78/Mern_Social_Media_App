@@ -18,7 +18,7 @@ naruto123@gmail.com
 ## Password
 1234
 # Live
-https://fluffy-blancmange-e9fcc0.netlify.app
+https://mern-social-frontend-vercel.vercel.app/
 
 Clone the project
 
